@@ -1,3 +1,3 @@
 # bookfinder-amazon-scraping-chrome-extension
 
-Amazon & bookfinder scraping chrom extension.
+Amazon & bookfinder scraping chrome extension.
